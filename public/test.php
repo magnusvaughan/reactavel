@@ -1,6 +1,4 @@
 <?php
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +8,6 @@
     <title>Test</title>
 </head>
 <body>
-    <p>Testing</p>
+    <p>Testings</p>
 </body>
 </html>
