@@ -17,6 +17,10 @@
             blogs: response.data
           })
         })
+        .catch(function (error) {
+          // handle error
+          console.log(error);
+        })
       }
 
       render () {
