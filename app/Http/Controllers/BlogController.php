@@ -13,4 +13,9 @@ class BlogController extends Controller
 
       return $blogs->toJson();
     }  
+
+    public function test()
+    {
+        return "Hitting";
+    }  
 }
